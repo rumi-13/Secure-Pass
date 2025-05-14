@@ -18,11 +18,11 @@ This is a simple password generator built using React and Tailwind CSS. Users ca
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/rumi-13/Password-Generator.git
+   git clone https://github.com/rumi-13/secure-pass.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd password-generator
+   cd secure-pass
    ```
 3. Install dependencies:
    ```sh
